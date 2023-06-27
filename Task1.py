@@ -11,4 +11,4 @@ def double_list(array: list[int]) -> list[int]:
     return list(res)
 
 
-print(double_list([2, 2, 3, 3, 4]))
+print(double_list([2, 2, 3, 3, 5]))
