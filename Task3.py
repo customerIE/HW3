@@ -14,4 +14,4 @@ def backpack_capacity(capacity: int, stuff: dict) -> list[str]:
     return packaging_option
 
 
-print(backpack_capacity(15, stuff))
+print(backpack_capacity(16, stuff))
